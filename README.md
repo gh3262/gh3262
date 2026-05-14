@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gh3262
-- 👀 I’m interested in CircuitPython, particurlarlly on Raspberry Pi Pico
-- 🌱 I’m currently learning intricies of using TFT displays and displayio
+- 👀 I’m interested in CircuitPython - my typical board of choice is Adafruit Feather RP2350
+- 🌱 I’m currently playing around with CoPilot AI in VS Code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
